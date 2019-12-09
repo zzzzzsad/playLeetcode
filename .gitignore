@@ -1,0 +1,8 @@
+playLeetCode/Release
+playLeetCode/Debug
+Release/*.exe
+Release/*.pdb
+Debug/*.exe
+Debug/*.pdb
+*.sdf
+.vs

@@ -4,6 +4,7 @@
 
 #include <stdio.h>
 #include <iostream>
+#include <vector>
 
 #define CHECK_EQ(x, y)                                          \
     if (x == y) {                                               \
@@ -28,5 +29,14 @@
     } while(0)
 
 
+template<typename T>
+std::ostream& operator<<(std::ostream& out, const std::vector<T>& vec) {
+    std::cout << "[";
+    for (auto v : vec) {
+        std::cout << v << ",";
+    }
+    std::cout << "]";
+    return out;
+}
 
 #endif //_PLAY_LEETCODE_BASE_H_

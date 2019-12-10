@@ -85,11 +85,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="src\longest-palindromic-substring.cpp" />
     <ClCompile Include="src\longest-substring-without-repeating-characters.cpp" />
     <ClCompile Include="src\median-of-two-sorted-arrays.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base.h" />
+    <ClInclude Include="src\longest-palindromic-substring.h" />
     <ClInclude Include="src\longest-substring-without-repeating-characters.h" />
     <ClInclude Include="src\median-of-two-sorted-arrays.h" />
   </ItemGroup>

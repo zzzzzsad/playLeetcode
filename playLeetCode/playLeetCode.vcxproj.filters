@@ -27,6 +27,9 @@
     <ClCompile Include="src\median-of-two-sorted-arrays.cpp">
       <Filter>src</Filter>
     </ClCompile>
+    <ClCompile Include="src\longest-palindromic-substring.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base.h">
@@ -36,6 +39,9 @@
       <Filter>src</Filter>
     </ClInclude>
     <ClInclude Include="src\median-of-two-sorted-arrays.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\longest-palindromic-substring.h">
       <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>

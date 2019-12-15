@@ -4,5 +4,8 @@ Release/*.exe
 Release/*.pdb
 Debug/*.exe
 Debug/*.pdb
+Debug/*.ilk
 *.sdf
+*.opensdf
+*.suo
 .vs

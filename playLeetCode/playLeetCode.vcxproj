@@ -88,14 +88,18 @@
     <ClCompile Include="src\add-two-numbers.cpp" />
     <ClCompile Include="src\longest-palindromic-substring.cpp" />
     <ClCompile Include="src\longest-substring-without-repeating-characters.cpp" />
+    <ClCompile Include="src\longest-valid-parentheses.cpp" />
     <ClCompile Include="src\median-of-two-sorted-arrays.cpp" />
+    <ClCompile Include="src\valid-parentheses.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base.h" />
     <ClInclude Include="src\add-two-numbers.h" />
     <ClInclude Include="src\longest-palindromic-substring.h" />
     <ClInclude Include="src\longest-substring-without-repeating-characters.h" />
+    <ClInclude Include="src\longest-valid-parentheses.h" />
     <ClInclude Include="src\median-of-two-sorted-arrays.h" />
+    <ClInclude Include="src\valid-parentheses.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

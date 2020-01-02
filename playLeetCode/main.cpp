@@ -6,6 +6,7 @@
 #include "src/add-two-numbers.h"
 #include "src/valid-parentheses.h"
 #include "src/longest-valid-parentheses.h"
+#include "src/zigzag-conversion.h"
 
 using namespace std;
 
@@ -26,7 +27,7 @@ int main(int argc, char** argv) {
     ADD_TEST(median_of_two_sorted_arrays);
     ADD_TEST(longest_palindromic_substring);
     ADD_TEST(longest_valid_parentheses);
-
+    ADD_TEST(zigzag_conversion);
 
 
 

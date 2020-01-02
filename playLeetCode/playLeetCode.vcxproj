@@ -91,6 +91,7 @@
     <ClCompile Include="src\longest-valid-parentheses.cpp" />
     <ClCompile Include="src\median-of-two-sorted-arrays.cpp" />
     <ClCompile Include="src\valid-parentheses.cpp" />
+    <ClCompile Include="src\zigzag-conversion.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base.h" />
@@ -100,6 +101,7 @@
     <ClInclude Include="src\longest-valid-parentheses.h" />
     <ClInclude Include="src\median-of-two-sorted-arrays.h" />
     <ClInclude Include="src\valid-parentheses.h" />
+    <ClInclude Include="src\zigzag-conversion.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

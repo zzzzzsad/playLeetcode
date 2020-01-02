@@ -39,6 +39,9 @@
     <ClCompile Include="src\longest-valid-parentheses.cpp">
       <Filter>src</Filter>
     </ClCompile>
+    <ClCompile Include="src\zigzag-conversion.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base.h">
@@ -60,6 +63,9 @@
       <Filter>src</Filter>
     </ClInclude>
     <ClInclude Include="src\longest-valid-parentheses.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\zigzag-conversion.h">
       <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>

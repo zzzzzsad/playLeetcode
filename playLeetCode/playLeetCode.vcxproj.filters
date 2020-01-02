@@ -42,6 +42,9 @@
     <ClCompile Include="src\zigzag-conversion.cpp">
       <Filter>src</Filter>
     </ClCompile>
+    <ClCompile Include="src\reverse-integer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base.h">
@@ -66,6 +69,9 @@
       <Filter>src</Filter>
     </ClInclude>
     <ClInclude Include="src\zigzag-conversion.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\reverse-integer.h">
       <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>

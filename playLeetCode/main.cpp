@@ -7,6 +7,7 @@
 #include "src/valid-parentheses.h"
 #include "src/longest-valid-parentheses.h"
 #include "src/zigzag-conversion.h"
+#include "src/reverse-integer.h"
 
 using namespace std;
 
@@ -28,7 +29,7 @@ int main(int argc, char** argv) {
     ADD_TEST(longest_palindromic_substring);
     ADD_TEST(longest_valid_parentheses);
     ADD_TEST(zigzag_conversion);
-
+    ADD_TEST(reverse_interger);
 
 
 
